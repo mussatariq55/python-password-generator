@@ -17,7 +17,7 @@ A simple password generator created as part of Day 5 of [Angela Yu's 100 Days of
 1. Make sure Python is installed (version 3.6+).
 2. Clone this repository:
 3. git clone https://github.com/yourusername/python-password-generator.git
-4. python password_generator.py
+4. python generator.py
 
 ## 🖥️ Preview
 ```bash
